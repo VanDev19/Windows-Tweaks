@@ -1,4 +1,5 @@
 :: This script makes that UAC request the password user for any action that requires admin privileges.
+:: Este script hace que windows pida la contraseña del usuario cuando requiera privilegios de administrador.
 
 @echo off
 echo Aplicando configuraciones al Registro de Windows...
